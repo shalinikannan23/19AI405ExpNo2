@@ -118,6 +118,7 @@ print(traversedpath)
 
 <hr>
 <h3>Output:</h3>
+
 ![image](https://github.com/PriyankaAnnadurai/19AI405ExpNo2/assets/118351569/8e0d552c-0431-43ef-8621-e9524da999ce)
 
 <hr>
