@@ -90,7 +90,7 @@ F H <BR>
 
 <hr>
 <h3>Program:</h3>
-<hr>
+
 ```py
 #import defaultdict
 from collections import defaultdict
