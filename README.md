@@ -90,6 +90,7 @@ F H <BR>
 
 <hr>
 <h3>Program:</h3>
+<hr>
 ```py
 #import defaultdict
 from collections import defaultdict
@@ -114,7 +115,7 @@ path=[]
 traversedpath=dfs(graph,start,visited,path)
 print(traversedpath)
 ```
-<hr>
+
 <hr>
 <h3>Output:</h3>
 ![image](https://github.com/PriyankaAnnadurai/19AI405ExpNo2/assets/118351569/8e0d552c-0431-43ef-8621-e9524da999ce)
