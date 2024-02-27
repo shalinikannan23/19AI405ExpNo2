@@ -1,10 +1,10 @@
 <h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
 
 
-<h3>Name: Priyanka A</h3>
+<h3>Name: SHALINI K</h3>
 
 
-<h3>Register Number: 212222230113</h3>
+<h3>Register Number: 212222240095</h3>
 
 
 <H3>Aim:</H3>
